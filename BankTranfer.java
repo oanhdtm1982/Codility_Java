@@ -44,6 +44,7 @@ public class BankTranfer {
     }
 
     public static void enterNumber() {
+        System.out.println("===================================");
         System.out.println("Hello. Please enter number.");
         System.out.println("1. Register account.");
         System.out.println("2. Delete account.");

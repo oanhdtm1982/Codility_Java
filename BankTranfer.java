@@ -13,7 +13,7 @@ public class BankTranfer {
     public static void deleteAccount(String accountNumber) {
         for (BankAccount account : accounts) {
             if (account.getAccountNumber().equals(accountNumber)) {
-                account = null;
+                accounts.remove(account);
                 break;
             }
         }
@@ -66,7 +66,7 @@ public class BankTranfer {
                         do {
                             System.out.println("Please enter account number.");
                             accountNumber = scanner.next();
-                        } while (accountNumber.length() < 11);
+                        } while (accountNumber.length() != 11);
 
                         double balance;
                         do {

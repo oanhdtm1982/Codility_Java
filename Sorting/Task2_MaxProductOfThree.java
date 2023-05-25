@@ -13,9 +13,9 @@ public class Task2_MaxProductOfThree {
     }
 
     public static void main(String[] args) {
-        Task1_Distinct task1 = new Task1_Distinct();
+        Task2_MaxProductOfThree task2 = new Task2_MaxProductOfThree();
         int[] A = { -3, 1, 2, -2, 5, 6 };
-        int res = task1.solution(A);
+        int res = task2.solution(A);
         System.out.println(res);
     }
 }

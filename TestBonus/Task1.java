@@ -1,3 +1,4 @@
+package TestBonus;
 // There is a street described by a string S. Each character in S is one of the following:
 // " denotes a car going to the left, denotes a car going to the right,
 // ' denotes a speed camera.

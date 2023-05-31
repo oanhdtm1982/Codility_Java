@@ -1,3 +1,4 @@
+package BankExercises;
 public class BankAccount {
     private String accountNumber;
     private double balance;

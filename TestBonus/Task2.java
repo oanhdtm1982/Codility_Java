@@ -1,3 +1,4 @@
+package TestBonus;
 // There are N hospitals, numbered from 0 to N-1. You are given a schedule of work in each of the hospitals for the following M days. The schedule is provided in the form of a two-dimensional array A containing N rows, each row representing the schedule of one hospital, and M columns, each column representing one day. Integer A[K]IL] (for K within the range [0..N-1] and L within the range
 // 10..M-1]) represents the ID of the doctor working at hospital K on day L. Note that sometimes an individual doctor may work at more than one hospital even on the same day.
 // Write a function:

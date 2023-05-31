@@ -1,3 +1,4 @@
+package TestBonus;
 
 // given a string S consisting of N lowercase English letters, returns the length of the longest substring in which every letter occurs an even number of times. A substring is defined as a contiguous segment of a string. If no such substring exists, return 0. 
 import java.util.ArrayList;

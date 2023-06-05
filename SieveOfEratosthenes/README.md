@@ -1,0 +1,1 @@
+Total score for task 1 CountNonDivisible: 55%

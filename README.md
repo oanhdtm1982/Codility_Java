@@ -23,3 +23,5 @@
     https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/
 ### Lesson 11 : Sieve of Eratosthenes
     https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/
+### Lesson 12 : Euclidean algorithm
+    https://app.codility.com/programmers/lessons/12-euclidean_algorithm/
